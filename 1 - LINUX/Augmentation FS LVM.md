@@ -1,4 +1,4 @@
-# Augmentation FS RHEL
+# Augmentation FS LVM RHEL
 ## Augmentation de la partition
 
 Vérifier que le sda a bien la taille du disque physique
