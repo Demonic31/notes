@@ -1,8 +1,6 @@
 > [!WARNING]
 > Bien penser à faire un snap à froid avant toute modification
 
-⚠**Bien penser à faire un snap à froid avant toute modification**⚠
-
 [vSphere Diagnostic Tool](https://flings.vmware.com/vsphere-diagnostic-tool)
 
   [Si erreur pour le certificat SSL](https://kb.vmware.com/s/article/80469)
