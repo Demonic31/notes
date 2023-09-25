@@ -9,3 +9,5 @@
 
 [Régénérer les certificats (Option 4)](https://kb.vmware.com/s/article/2112283)
 
+> [!NOTE]
+> [Correspondance VMware Tools](https://kb.vmware.com/s/article/86165)
