@@ -70,6 +70,8 @@ Une fois le LV identifié, utiliser la commande suivante pour agrandir le LV :
 Passer ensuite la commande suivante pour appliquer la taille
 
 `xfs_growfs /var/`
+ou
+`resize2fs /var/`
 
 Revérifier la taille du FS 
 
