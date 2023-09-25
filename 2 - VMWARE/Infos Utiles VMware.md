@@ -1,5 +1,5 @@
 # Informations Utiles VMware
-## Diagnostics/Corrections Certificats
+## Diagnostics/Corrections Certificats vCenter
 > [!WARNING]
 > Bien penser à faire un snap à froid avant toute modification
 
@@ -12,6 +12,8 @@
 [Si certificat STS expiré](https://kb.vmware.com/s/article/76719?lang=en_US)
 
 [Régénérer les certificats (Option 4)](https://kb.vmware.com/s/article/2112283)
+
+
 
 ## Liens Utiles
 [Correspondance VMware Tools](https://kb.vmware.com/s/article/86165)
