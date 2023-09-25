@@ -13,7 +13,8 @@
 
 [Régénérer les certificats (Option 4)](https://kb.vmware.com/s/article/2112283)
 
-
+## Compte root vCenter
+(Unlock/Reset compte root)[https://pchawda.wordpress.com/2019/08/28/unlock-reset-password-of-root-account-on-vcenter-appliance-6-x/]
 
 ## Liens Utiles
 [Correspondance VMware Tools](https://kb.vmware.com/s/article/86165)
