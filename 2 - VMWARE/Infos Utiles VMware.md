@@ -1,3 +1,6 @@
+> [!WARNING]
+> Bien penser à faire un snap à froid avant toute modification
+
 ⚠**Bien penser à faire un snap à froid avant toute modification**⚠
 
 [vSphere Diagnostic Tool](https://flings.vmware.com/vsphere-diagnostic-tool)
