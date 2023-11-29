@@ -16,6 +16,12 @@
 ## Compte root vCenter
 [Unlock/Reset compte root](https://pchawda.wordpress.com/2019/08/28/unlock-reset-password-of-root-account-on-vcenter-appliance-6-x/)
 
+## Lister certificats vROPS
+`for store in $(/usr/lib/vmware-vmafd/bin/vecs-cli store list | grep -v TRUSTED_ROOT_CRLS); do echo "[*] Store :" $store; /usr/lib/vmware-vmafd/bin/vecs-cli entry list --store $store --text | grep -ie "Alias" -ie "Not After";done`
+
+## Passer en bash 
+`chsh -s "/bin/bash" root`
+
 ## HP iLO
 [Reset compte administrator via ESXi](https://www.virtualease.fr/vmware-configurer-hp-ilo-esxi/)
 
