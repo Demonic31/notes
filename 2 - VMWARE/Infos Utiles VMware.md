@@ -28,4 +28,9 @@
 ## Liens Utiles
 [Correspondance VMware Tools](https://kb.vmware.com/s/article/86165)
 
+[Liste versions Vcenter](https://kb.vmware.com/s/article/2143838)
+[Liste versions VMware Tools](https://kb.vmware.com/s/article/86165)
+[Liste Compatibilité VM Hardware (VM version)](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-64D4B1C9-CD5D-4C68-8B50-585F6A87EBA0.html)
+[Interopérabilité Matrice VMware](https://interopmatrix.vmware.com/Interoperability)
+
 [Lab VMware](https://labs.hol.vmware.com/HOL/catalogs/catalog/1936)
